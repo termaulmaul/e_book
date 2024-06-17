@@ -23,7 +23,7 @@ class HomeAppBar extends StatelessWidget {
             },
             child: SvgPicture.asset("Assets/Icons/dashboard.svg")),
         Text(
-          "E-BOOK",
+          "Eduprime",
           style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                 color: Theme.of(context).colorScheme.background,
               ),

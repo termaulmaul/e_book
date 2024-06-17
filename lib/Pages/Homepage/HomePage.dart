@@ -50,7 +50,7 @@ class HomePage extends StatelessWidget {
                                     ),
                               ),
                               Text(
-                                "Nitish",
+                                "Maul",
                                 style: Theme.of(context)
                                     .textTheme
                                     .headlineMedium
