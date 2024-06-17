@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-master.dia",
+    "emit-module-dependencies" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/syncfusion_pdfviewer_macos-master.swiftdeps"
+  },
+  "/Users/macprom1/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_macos-23.2.7/macos/Classes/SyncfusionFlutterPdfViewerPlugin.swift" : {
+    "const-values" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.swiftconstvalues",
+    "dependencies" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.d",
+    "diagnostics" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.o",
+    "llvm-bc" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.bc",
+    "object" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.o",
+    "swift-dependencies" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin.swiftdeps",
+    "swiftmodule" : "/Users/macprom1/e_book/build/macos/Build/Intermediates.noindex/Pods.build/Debug/syncfusion_pdfviewer_macos.build/Objects-normal/arm64/SyncfusionFlutterPdfViewerPlugin~partial.swiftmodule"
+  }
+}

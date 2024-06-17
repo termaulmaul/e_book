@@ -1,0 +1,27 @@
+/Users/macprom1/e_book/macos/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/AppAuth/AppAuth.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/BoringSSL-GRPC/openssl_grpc.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseAppCheckInterop/FirebaseAppCheckInterop.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseAuth/FirebaseAuth.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseAuthInterop/FirebaseAuthInterop.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseCore/FirebaseCore.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseCoreExtension/FirebaseCoreExtension.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseCoreInternal/FirebaseCoreInternal.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseFirestore/FirebaseFirestore.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseSharedSwift/FirebaseSharedSwift.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/FirebaseStorage/FirebaseStorage.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/GTMAppAuth/GTMAppAuth.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/GTMSessionFetcher/GTMSessionFetcher.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/GoogleSignIn/GoogleSignIn.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/GoogleUtilities/GoogleUtilities.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/PromisesObjC/FBLPromises.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/abseil/absl.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/device_info_plus/device_info_plus.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/file_selector_macos/file_selector_macos.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/leveldb-library/leveldb.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/nanopb/nanopb.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/syncfusion_pdfviewer_macos/syncfusion_pdfviewer_macos.framework
+/Users/macprom1/e_book/build/macos/Build/Products/Debug/url_launcher_macos/url_launcher_macos.framework
